@@ -35,6 +35,11 @@ public func bolme(s: Int) : async ?Int{
     ?hucre
   }; 
 };
+//Üs
+  public func us(s: Int) : async Int {
+    hucre **=s; 
+    hucre
+  };
 //temizle
 public func temizle() : async (){
   hucre := 0;
